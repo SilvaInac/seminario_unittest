@@ -18,16 +18,16 @@ Repositório para apresentação do Hands On no seminario de testes unitários d
   ```
 
 - Ativar ambiente virtual Python;
-```
-source bin/activate
-```
+  ```
+  source bin/activate
+  ```
 
 - Rodar exemplo funcional;
-```
-python src/main.py
-```
+  ```
+  python src/main.py
+  ```
 
 - Rodar suite de testes;
-```
-?
-```
+  ```
+  ?
+  ```
