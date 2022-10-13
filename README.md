@@ -29,5 +29,5 @@ Repositório para apresentação do Hands On no seminario de testes unitários d
 
 - Rodar suite de testes;
   ```
-  ?
+  python -m unittest
   ```
