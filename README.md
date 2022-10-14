@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112650257/195737127-2c8c042a-6f7e-40e6-a590-f63d0dabc38b.PNG" width="400px" />
+</div>
+
+
 # Hands On - unittest (python).
 Repositório para apresentação do Hands On no seminario de testes unitários de C214 (Eng. de Software) do Inatel.
 
