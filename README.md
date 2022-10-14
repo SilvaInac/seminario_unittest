@@ -53,6 +53,12 @@ https://github.com/SilvaInac/seminario_unittest.git
   python -m unittest
   ```
   
+## 💻 Technologies & Tools:
+ - Python
+ - Unittest
+ - GitHub
+ - VSCode
+  
 ## ✒️ Autores:
 - [Álvaro](https://github.com/alvaromfcunha)
 - [Carlos](https://github.com/SilvaInac)
