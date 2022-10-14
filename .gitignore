@@ -8,3 +8,6 @@ pyvenv.cfg
 # .pyc files
 __pycache__/
 *.pyc
+
+# test coverage files
+.coverage
