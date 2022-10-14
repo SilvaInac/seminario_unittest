@@ -17,7 +17,7 @@ Repositório para apresentação do Hands On no seminario de testes unitários d
 - Python 3.9.x;
 - Python venv.
 
-## 🚀 Começando:
+## 🔧 Começando:
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
 ```
 https://github.com/SilvaInac/seminario_unittest.git
@@ -48,3 +48,8 @@ https://github.com/SilvaInac/seminario_unittest.git
   ```
   python -m unittest
   ```
+  
+## ✒️ Autores:
+* **Álvaro Mendonça** - [Álvaro](https://github.com/Estheferson)
+* **Carlos Eduardo** - [SilvaInac](https://github.com/SilvaInac)
+* **Estheferson Matheus** - [Estheferson](https://github.com/Estheferson)
