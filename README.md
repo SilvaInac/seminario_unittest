@@ -24,33 +24,33 @@ https://github.com/SilvaInac/seminario_unittest.git
 ```
 
 ## 🛠️ Passo à passo:
-- Entrar no diretório do repositório;
+- Entrar no diretório do repositório
   ```
   cd seminario_unittest/
   ```
 
-- Criar ambiente virtual Python;
+- Criar ambiente virtual Python
   ```
   python3.9 -m venv ./
   ```
   Não é necessário instalar as dependências globalmente.
 
-- Ativar ambiente virtual Python;
+- Ativar ambiente virtual Python
   ```
   source bin/activate
   ```
 
-- Instalar dependencias;
+- Instalar dependências
   ```
   pip install -r requirements.txt
   ```
 
-- Rodar exemplo funcional;
+- Rodar exemplo funcional
   ```
   python src/main.py
   ```
 
-- Rodar suite de testes;
+- Rodar suite de testes
   ```
   python -m unittest
   ```
