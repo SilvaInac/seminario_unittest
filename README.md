@@ -50,6 +50,6 @@ https://github.com/SilvaInac/seminario_unittest.git
   ```
   
 ## ✒️ Autores:
-* **Álvaro Mendonça** - [Álvaro](https://github.com/Estheferson)
-* **Carlos Eduardo** - [SilvaInac](https://github.com/SilvaInac)
-* **Estheferson Matheus** - [Estheferson](https://github.com/Estheferson)
+- [Álvaro](https://github.com/alvaromfcunha)
+- [Carlos](https://github.com/SilvaInac)
+- [Estheferson](https://github.com/Estheferson)
