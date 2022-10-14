@@ -22,6 +22,11 @@ Repositório para apresentação do Hands On no seminario de testes unitários d
   source bin/activate
   ```
 
+- Instalar dependencias;
+  ```
+  pip install -r requirements.txt
+  ```
+
 - Rodar exemplo funcional;
   ```
   python src/main.py
@@ -30,4 +35,9 @@ Repositório para apresentação do Hands On no seminario de testes unitários d
 - Rodar suite de testes;
   ```
   python -m unittest
+  ```
+
+- Rodar testes gerando relatório de testes.
+  ```
+  python -m coverage run -m unittest && python -m coverage report && python -m coverage html
   ```
