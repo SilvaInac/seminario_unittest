@@ -13,15 +13,15 @@ Repositório para apresentação do Hands On no seminario de testes unitários d
 <img src="https://user-images.githubusercontent.com/112650257/195760950-e106269c-9d73-44cb-95e1-6ed1253f4537.PNG" width="300px" />
 </div>
 
+## ❗ Pré-requisitos:
+- Python 3.9.x;
+- Python venv.
+
 ## 🚀 Começando:
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
 ```
 https://github.com/SilvaInac/seminario_unittest.git
 ```
-
-## ❗ Pré-requisitos:
-- Python 3.9.x;
-- Python venv.
 
 ### Passo à passo:
 - Entrar no diretório do repositório;
