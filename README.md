@@ -59,7 +59,9 @@ https://github.com/SilvaInac/seminario_unittest.git
   ```
   python -m coverage run -m unittest && python -m coverage report && python -m coverage html
   ```
-  
+
+https://docs.google.com/presentation/d/1VXhrNT1lmoiubQJT5jWl2Yq8q-UoIhYHAY1fK0oIkVo/edit#slide=id.p
+
 ## 💻 Technologies & Tools:
  - Python
  - Unittest
