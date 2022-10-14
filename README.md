@@ -1,5 +1,4 @@
 <div align="center">
-  
 <img src="https://user-images.githubusercontent.com/112650257/195737127-2c8c042a-6f7e-40e6-a590-f63d0dabc38b.PNG" width="400px" />
 </div>
 
@@ -9,8 +8,10 @@ Repositório para apresentação do Hands On no seminario de testes unitários d
 ### Observações:
   - Unittest - Foi originalmente inspirado no JUnit.
   - Bastante semelhanças com outras estruturas de testes unitários.
-  - Por padrão, é identificado testes unittest os métodos que começam com test.
-  - 
+  - Por padrão, são identificados como testes unittest os métodos que começam com test.
+
+<img src="https://user-images.githubusercontent.com/112650257/195760950-e106269c-9d73-44cb-95e1-6ed1253f4537.PNG" width="300px" />
+</div>
 
 ## 🚀 Começando:
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
