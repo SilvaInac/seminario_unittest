@@ -23,7 +23,7 @@ Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, c
 https://github.com/SilvaInac/seminario_unittest.git
 ```
 
-### Passo à passo:
+## 🛠️ Passo à passo:
 - Entrar no diretório do repositório;
   ```
   cd seminario_unittest/
@@ -33,12 +33,16 @@ https://github.com/SilvaInac/seminario_unittest.git
   ```
   python3.9 -m venv ./
   ```
+  Não é necessário instalar as dependências globalmente.
 
 - Ativar ambiente virtual Python;
   ```
   source bin/activate
   ```
-
+  
+- Instalação de Dependências -
+  `requirements.txt`
+  
 - Rodar exemplo funcional;
   ```
   python src/main.py
